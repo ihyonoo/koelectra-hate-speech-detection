@@ -1,0 +1,7 @@
+#requirements.txt
+torch
+transformers
+numpy
+scikit-learn
+tqdm
+streamlit
